@@ -1190,3 +1190,18 @@ section h2 {
     width: 50%; /* Adjust this value as needed */
     height: auto; /* Maintain aspect ratio */
 }
+
+.card-icons i {
+    font-size: 3rem; /* Increased size of the icon */
+    display: inline-block;
+    vertical-align: middle; /* Align the icon with the text vertically */
+    margin-right: 10px; /* Add spacing between icon and text */
+}
+
+.card-icons a {
+    font-size: 1.2rem; /* Adjust text size as needed */
+    display: inline-block;
+    vertical-align: middle;
+    position: relative; /* Add this line */
+    top: 70px; /* Adjust position */
+}
