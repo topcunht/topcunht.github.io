@@ -1203,5 +1203,5 @@ section h2 {
     display: inline-block;
     vertical-align: middle;
     position: relative; /* Add this line */
-    top: 70px; /* Adjust position */
+    top: 40px; /* Adjust position */
 }
