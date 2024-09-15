@@ -1205,3 +1205,10 @@ section h2 {
     position: relative; /* Add this line */
     top: 40px; /* Adjust position */
 }
+
+
+.card img.logo-link {
+    width: 100%;
+    height: auto;
+    top:100px
+}
